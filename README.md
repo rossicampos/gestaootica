@@ -1,4 +1,4 @@
-## Licença
+## Introdução
 
 Sistema de gestão para óticas
 
