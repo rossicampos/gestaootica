@@ -1,0 +1,25 @@
+{
+    "name": "rossicampos/gestaootica",
+    "description": "Sistema de gestão para óticas",
+    "version": "0.1.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bráulio Campos",
+            "email": "braulio@rossicampos.com.br"
+        }
+    ],
+    "require": {
+        "php": "^8.2",
+        "laravel/laravel": "^11.1"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Rossicampos\\Gestaootica\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
